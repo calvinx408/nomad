@@ -12,6 +12,7 @@ go:
 branches:
   only:
     - master
+    - f-ui-mvp
 
 matrix:
   include:
